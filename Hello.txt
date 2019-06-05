@@ -1,7 +1,1 @@
-
-
 HelloGit
-
-
-This is another commit that i learn branching
-and merging
